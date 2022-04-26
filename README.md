@@ -8,6 +8,7 @@
 <div>
   <a href='https://github.com/YasminldBatista'>
     <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=YasminldBatista&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true'>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminldBatista&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
              
@@ -26,6 +27,6 @@
   <a href="https://instagram.com/yaasmin_lorraine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasminldb@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-lorraine-duarte-batista-1928b8168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/YasminldBatista/YasminldBatista/blob/output/github-contribution-grid-snake.svg)
+    
+ ![Snake animation](https://github.com/YasminldBatista/YasminldBatista/blob/output/github-contribution-grid-snake.svg)
 </div>
