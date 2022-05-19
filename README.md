@@ -20,7 +20,6 @@
   <img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" width="20%" alt="Hello" src="https://64.media.tumblr.com/9718d862bd0824c3318b9ecb9995629d/4f8b8bb03c05c8f7-f9/s1280x1920/a53fc2fa3d1376181cc3ee57a8cc2d20422e404f.gifv">
   </div>
   
   ##
