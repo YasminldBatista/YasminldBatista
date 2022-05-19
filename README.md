@@ -3,7 +3,7 @@
 - 🔭 I'm looking for work in the area
 - 👨‍🎓 **Studying:** I'm currently studying Systems Analysis and Development.
 - 📫 **Contact me:** yasminldb@outlook.com
-- 🎒 **Main Tools:** Visual Studio Code, Visual Studio, IntelliJ and GitHub
+- 🎒 **Main Tools:** Visual Studio Code, PyCharm, IntelliJ and GitHub
 - 😄 Pronouns: Ela/dela (She/Her)
 
 <div>
@@ -28,5 +28,5 @@
   <a href = "mailto:yasminldb@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yasmin-lorraine-duarte-batista-1928b8168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
- ![Snake animation](https://github.com/YasminldBatista/YasminldBatista/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/YasminldBatista/YasminldBatista/blob/output/github-contribution-grid-snake.svg)
 </div>
