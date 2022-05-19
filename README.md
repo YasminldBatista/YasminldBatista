@@ -1,13 +1,14 @@
-### Olá! Eu sou a YasminldBatista
+### Hi there, I'm YasminldBatista
 
-- 🔭 Em busca de um emprego na área
-- 🌱 Estudando Análise e Desenvolvimento de Sitemas na Cruzeiro do Sul
-- 📫 Contate-me no email: yasminldb@outlook.com
-- 😄 Pronouns: Ela/dela
+- 🔭 I'm looking for work in the area
+- 👨‍🎓 **Studying:** I'm currently studying Systems Analysis and Development.
+- 📫 **Contact me:** yasminldb@outlook.com
+- 🎒 **Main Tools:** Visual Studio Code, Visual Studio, IntelliJ and GitHub
+- 😄 Pronouns: Ela/dela (She/Her)
 
 <div>
   <a href='https://github.com/YasminldBatista'>
-    <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=YasminldBatista&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true'>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminldBatista&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminldBatista&layout=compact&langs_count=7&theme=midnight-purple"/>
     
 </div>
@@ -19,6 +20,7 @@
   <img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" width="20%" alt="Hello" src="https://64.media.tumblr.com/9718d862bd0824c3318b9ecb9995629d/4f8b8bb03c05c8f7-f9/s1280x1920/a53fc2fa3d1376181cc3ee57a8cc2d20422e404f.gifv">
   </div>
   
   ##
